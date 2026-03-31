@@ -1,5 +1,15 @@
 # Base de Conhecimento
 
+> [!TIP]
+> 
+> **Prompt Sugerido para esta etapa:**
+> Preciso organizar a base de conhecimento do meu agente financeiro educat
+> Tenho estes arquivos de dados: [liste os arquivos].
+> Me ajude a:
+> (1) entender o que cada arquivo contém,
+> (2) decidir como usar cada um,
+> (3) criar um exemplo de contexto formatado para incluir no prompt.
+
 ## Dados Utilizados
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
@@ -10,9 +20,6 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 | `perfil_investidor.json` | JSON | Personalizar as explicações sobre as dúvidas e necessidades de aprendizado do cliente. |
 | `produtos_financeiros.json` | JSON | Conhecer os produtos disponiveis para que eles possam ser ensinados ao cliente. |
 | `transacoes.csv` | CSV | Analisar padrão de gastos do cliente e suas essas informações de forma didática. |
-
-> [!TIP]
-> **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
 
 ---
 
