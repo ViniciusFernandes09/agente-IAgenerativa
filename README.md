@@ -8,8 +8,8 @@ O objetivo do projeto é ajudar usuários a entender conceitos financeiros utili
 
 ---
 
-<p align="left">
-  <img src="assets/gif_demonstracao.gif" width="500"/>
+<p align="center">
+  <img src="assets/gif_demonstracao.gif" width="650"/>
 </p>
 
 ## 📌 Problema
