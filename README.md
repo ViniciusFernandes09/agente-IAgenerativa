@@ -1,4 +1,4 @@
-# 💜 Let — Educadora Financeira IA
+# 💜 Let - Educadora Financeira IA
 
 A Let é uma educadora financeira baseada em Inteligência Artificial criada para tornar a educação financeira mais simples, acessível e personalizada.
 
