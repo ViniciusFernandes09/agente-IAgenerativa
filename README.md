@@ -8,6 +8,10 @@ O objetivo do projeto é ajudar usuários a entender conceitos financeiros utili
 
 ---
 
+<p align="left">
+  <img src="assets/gif_demonstracao.gif" width="500"/>
+</p>
+
 ## 📌 Problema
 
 Grande parte das pessoas possui dificuldades para iniciar sua jornada financeira:
